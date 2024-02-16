@@ -1,10 +1,9 @@
 /* Created by: Clara
 * Created on: Feb 2024
-* This file contains the CSS for index.html
+* This file contains the CSS for index2.html
 */
-
 .mdl-ripple {
-  background: #000000;
+  background: #000;
   opacity: 0.001;
 }
 
@@ -20,11 +19,15 @@
 }
 
 .page-content {
-  color: rgb(10, 163, 166);
+  color: black;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
 }
 
+.demo-list-icon {
+  width: 300px;
+}
+
 body {
-  background-color: mediumpurple;
+  background-color: rgb(180, 248, 225);
 }
